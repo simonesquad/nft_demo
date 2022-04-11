@@ -22,5 +22,5 @@ Topics that were covered and the main functionality:
 -Adding search functionality to search between NFT collections on Open Sea and displaying them as well as interacting with the items shown
 -Personalizing built in dashboard displays and customizing individual NFT appearance
 
-Overall a successful learning experience and a great tool for jumping into dAPP creation and the overall NFT app lifecycle process in 2022. Highly recommend giving this a go! 🤓
+Overall a successful learning experience and a great tool for jumping into dAPP creation and the NFT app lifecycle process in 2022. Highly recommend giving this a go! 🤓
 
