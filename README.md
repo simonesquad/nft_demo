@@ -4,6 +4,8 @@
 
 Current status open pull request on local version: https://github.com/simonesquad/ethereum-boilerplate/pull/1 👀
 
+As a sidenote here is another demo with more styling and using thirdweb: https://github.com/simonesquad/nft_demo_2
+
 Updates and further alterations may be ongoing during this year as this is primarily a repo for my use and learning. 🌻
 
 The exercise was intended to go through the boilerplate and make alterations to fully understand the NFT app's functionality and review critical skills that I gained during an internship in 2021 with a similar Web3 NFT product. 💅
